@@ -1,3 +1,4 @@
 Gitの練習です
 kihonntekina
 何かを変更しました
+secondを削除して追加

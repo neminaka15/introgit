@@ -3,3 +3,4 @@ kihonntekina
 何かを変更しました
 secondを削除して追加
 Gitstatus
+git diff練習
